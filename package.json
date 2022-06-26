@@ -1,0 +1,30 @@
+{
+  "name": "wabotmd",
+  "version": "1.0.0",
+  "description": "I remind you again!, I made this repo just for fun, I don't want to compete with you!, I'd be happier if you guys also made this project, and for this base I got it from my friend, in package.json it says hisoka morou , thanks for hisoka morou",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoliKillers/wabot-md.git"
+  },
+  "keywords": [
+    "baileys",
+    "whatsapp",
+    "bot",
+    "multi-device",
+    "javascript",
+    "nodejs",
+    "baileys-md",
+    "code"
+  ],
+  "author": "LoliKillers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoliKillers/wabot-md/issues"
+  },
+  "homepage": "https://github.com/LoliKillers/wabot-md#readme"
+}
