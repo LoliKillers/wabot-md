@@ -4,10 +4,11 @@ RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
   imagemagick \
-  python \
   webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
+  
+RUN npm install -g nodemon
 
 ENV PORT=8080
 WORKDIR ./app

@@ -1,0 +1,79 @@
+{
+  "users": {
+    "6285785445412@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285748962434@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6283856085455@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    }
+  },
+  "chats": {
+    "6285785445412@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "languagess": "id",
+      "welcomeMes": {},
+      "custom_welcome": {
+        "bg_canvas": "https://c0.wallpaperflare.com/preview/524/860/912/screen-code-coding-programming.jpg"
+      }
+    },
+    "120363024454855864@g.us": {
+      "mute": false,
+      "antilink": false,
+      "languagess": "id",
+      "welcomeMes": {},
+      "custom_welcome": {
+        "bg_canvas": "https://c0.wallpaperflare.com/preview/524/860/912/screen-code-coding-programming.jpg"
+      }
+    },
+    "120363021167156241@g.us": {
+      "mute": false,
+      "antilink": false,
+      "languagess": "id",
+      "welcomeMes": {},
+      "custom_welcome": {
+        "bg_canvas": "https://c0.wallpaperflare.com/preview/524/860/912/screen-code-coding-programming.jpg"
+      }
+    },
+    "6285748962434@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false,
+      "languagess": "id",
+      "welcomeMes": {},
+      "custom_welcome": {
+        "bg_canvas": "https://c0.wallpaperflare.com/preview/524/860/912/screen-code-coding-programming.jpg"
+      }
+    },
+    "120363018865633560@g.us": {
+      "mute": false,
+      "antilink": false,
+      "languagess": "id",
+      "welcomeMes": {},
+      "custom_welcome": {
+        "bg_canvas": "https://c0.wallpaperflare.com/preview/524/860/912/screen-code-coding-programming.jpg"
+      }
+    }
+  },
+  "database": {},
+  "settings": {
+    "6285748962434@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    }
+  },
+  "others": {},
+  "sticker": {}
+}
